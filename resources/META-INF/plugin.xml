@@ -1,10 +1,10 @@
 <idea-plugin>
-  <id>nerzhul500.borderless.rider.dark</id>
-  <name>Borderless Rider Dark Theme</name>
-  <version>0.12</version>
+  <id>dark.flat.theme</id>
+  <name>Dark Flat Theme</name>
+  <version>0.13</version>
   <vendor email="nerzhulart@gmail.com">Nerzhul 500</vendor>
 
-  <description>LaF theme based on 'Rider Dark' with minimum visible borders</description>
+  <description>Dark LaF theme based on 'Rider Dark' with more 'flat' design and minimum visible borders</description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>
@@ -14,7 +14,7 @@
   <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-      <themeProvider id="BorderlessRiderDark" path="/BorderlessRiderDark.theme.json"/>
+    <themeProvider id="DarkFlatTheme" path="/DarkFlatTheme.theme.json"/>
     <!-- Add your extensions here -->
   </extensions>
 
