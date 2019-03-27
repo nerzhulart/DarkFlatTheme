@@ -8,5 +8,5 @@ To install:
   
 [In JetBrains plugin repository](https://plugins.jetbrains.com/plugin/12165-dark-flat-theme) | [Report an issue](https://github.com/nerzhulart/DarkFlatTheme/issues)  
 
-![Dark purple theme main window](/screenshots/mainwindow.png)  
+![Dark purple theme main window](/screenshots/main_window.png)  
 ![Dark purple theme settings](/screenshots/settings.png)
