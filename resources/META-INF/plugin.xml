@@ -4,7 +4,17 @@
   <version>0.13</version>
   <vendor email="nerzhulart@gmail.com">Nerzhul 500</vendor>
 
-  <description>Dark LaF theme based on 'Rider Dark' with more 'flat' design and minimum visible borders</description>
+  <description>
+    <![CDATA[
+  Dark LaF theme based on 'Rider Dark' with more 'flat' design and minimum visible borders
+  <br/><br/>
+
+  <br/><br/><br/>
+  <img src="https://raw.githubusercontent.com/nerzhulart/DarkFlatTheme/master/screenshots/main_window.png" border="0" width="700" alt="Main window screenshot">
+  <br/>
+  <img src="https://raw.githubusercontent.com/nerzhulart/DarkFlatTheme/master/screenshots/settings.png" border="0" width="700" alt="Settings screenshot">
+    ]]>
+  </description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>
